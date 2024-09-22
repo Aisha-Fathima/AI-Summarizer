@@ -1,5 +1,5 @@
 
-# 📰 Breifly: Where Less is More!
+# 📚 Breifly: Where Less is More! 📰
 
 **Welcome to Breifly!** ✨ Your go-to web app for turning lengthy articles into concise summaries!
 
