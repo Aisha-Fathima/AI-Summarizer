@@ -10,8 +10,9 @@ Breifly is a **React-based web application** that effortlessly transforms **long
 Simply **paste any article or website link**, and watch as Breifly generates a **concise summary** in seconds! 
 
 ![image1](src/images/img1.png)
-![image2](src/images/img2.png)
 ![image3](src/images/img3.png)
+![image2](src/images/img2.png)
+
 ### 🎉 Key Features
 - **Instant Summaries**: Get the essence of lengthy articles with just a click.
 - **History Tracking**: Easily revisit your previous searches and summaries.
